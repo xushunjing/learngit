@@ -4,5 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Creating11 a new branch is quick AND simple.
 add merge
-one: add this
+one: add this mod
 dev: add this one
